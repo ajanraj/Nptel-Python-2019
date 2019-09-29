@@ -15,6 +15,8 @@
 # Output:
 # yor article is in qu
 
+# Program:
+
 
 def vow(l):
 

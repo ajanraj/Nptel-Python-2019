@@ -15,6 +15,8 @@
 
 # Output a single line containing the position of "Computing Paradox" in the sorted playlist.
 
+# Program:
+
 x = int(input())
 lis = [int(i) for i in input().split(" ")]
 sort = sorted(lis)

@@ -28,6 +28,8 @@
 # Output:
 # 1 2 3 5
 
+# Program:
+
 from random import randint
 n = int(input())
 l = []

@@ -21,6 +21,8 @@
 # Output:
 # 3 8 8 3
 
+# Program:
+
 n = int(input())
 a = [int(i) for i in input().split()]
 ra = a[::-1]

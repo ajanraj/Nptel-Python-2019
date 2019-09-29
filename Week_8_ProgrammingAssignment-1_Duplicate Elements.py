@@ -27,6 +27,8 @@
 # Output:
 # 12 24 35
 
+# Program:
+
 o = list(map(int, input().split()))
 d = []
 for i in o:

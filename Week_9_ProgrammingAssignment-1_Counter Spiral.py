@@ -20,6 +20,8 @@
 # Output:
 # 25 24 16 48 25 21 19 1 32 7 29 1 20 38 29 4
 
+# Program:
+
 a = int(input())
 mat = []
 
